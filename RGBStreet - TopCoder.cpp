@@ -1,3 +1,7 @@
+/*
+Problem Statement: https://community.topcoder.com/stat?c=problem_statement&pm=6680
+*/
+
 #include <bits/stdc++.h>
 using namespace std;
 #define all(v) v.begin(), v.end()
